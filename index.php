@@ -66,6 +66,7 @@
             <a href="suma.php" class="boton">➕ Suma de 2 números</a>
             <a href="factorial.php" class="boton">🔢 Factorial</a>
             <a href="mostrar_nombre.php" class="boton">👤 Mi nombre</a>
+            <a href="fibonacci.php" class="boton">🌀 Serie Fibonacci</a>  <!-- NUEVO -->
         </div>
         
         <div class="footer">
