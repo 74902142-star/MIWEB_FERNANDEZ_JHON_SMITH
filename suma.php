@@ -1,3 +1,8 @@
+<?php
+// Proyecto de Ingeniería Web - Jhon Smith Fernandez
+// Modificación realizada para el segundo commit
+?>
+
 <!DOCTYPE html>
 <html lang="es">
 <head>
